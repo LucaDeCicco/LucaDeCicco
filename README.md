@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm De Cicco Luca</h1>
 <h3 align="center">A passionate full stack developer from Romania</h3>
 
+I’m a Junior Full-Stack-Web-Developer living in Brasov experienced in building accessible web applications using Java with SpringBoot for Back-End and JavaScript with React for Front-End. As a recent gratuated CodeCool Student, I’m looking to increase my portfolio and, I'm very open to learn lots of new things.
+
 - 🔭 I’m currently working on [All Around](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-LucaDeCicco)
 
 - 🌱 I’m currently learning **spring boot and react js**
